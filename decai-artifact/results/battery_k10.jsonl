@@ -1,0 +1,159 @@
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.019}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.014}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.014}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.014}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.006}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.044}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.042}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.042}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.042}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.007}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.177}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.174}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.176}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.175}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "..", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.011}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.024}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.088}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.089}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.092}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.091}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "/", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.003}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.004}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.005}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.089}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.091}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.09}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.089}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "\\", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.007}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 4, "k": 50, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 8, "k": 50, "verdict": "VERIFIED", "secs": 0.025}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.087}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.088}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.091}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.09}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "space", "L": 16, "k": 50, "verdict": "VERIFIED", "secs": 0.105}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 4, "k": 1, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 4, "k": 2, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 4, "k": 5, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 4, "k": 10, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 8, "k": 2, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 8, "k": 5, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 8, "k": 10, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.003}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 16, "k": 2, "verdict": "ALARM", "secs": 0.003}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 16, "k": 5, "verdict": "ALARM", "secs": 0.003}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 16, "k": 10, "verdict": "ALARM", "secs": 0.003}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "uppercase", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.003}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.024}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.002}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.089}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.089}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.088}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.089}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "-", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.003}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.008}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.007}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.007}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.011}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.022}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.023}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.013}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.09}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.1}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.106}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.104}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "$(", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.024}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.009}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.009}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.009}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.009}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 4, "k": 50, "verdict": "VERIFIED", "secs": 0.025}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.027}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.027}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.027}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.028}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.103}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.106}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.106}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.107}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.107}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "<script", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.164}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.009}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.009}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.01}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.009}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.014}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.027}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.027}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.028}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.027}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.018}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.105}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.107}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.107}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.107}
+{"model": "slug_confK10_s0", "kind": "P", "prop": "%2e", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.028}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "ab", "L": 4, "k": 1, "verdict": "ALARM", "secs": 0.006, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 3.23}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "ab", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.006, "cex_by": "sampling", "cex_in": "AB\\x0eU", "cex_out": "ab_u", "cex_secs": 0.08}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "ab", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.007, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 6.66}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "ab", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.009, "cex_by": "sampling", "cex_in": "|ABZ_`\\x14\\x0e", "cex_out": "_abz____", "cex_secs": 0.27}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "ab", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.014, "cex_by": "sampling", "cex_in": "SAww\\x14\\x18I\\x14)yabQy\\x1aX", "cex_out": "saww__i__yabqy_x", "cex_secs": 0.8}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "ab", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.017, "cex_by": "sampling", "cex_in": "Nj\\x1fAbNV~\\x05Nd\\x04ts\\x03m", "cex_out": "nj_abnv__nd_ts_m", "cex_secs": 0.85}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "_._", "L": 4, "k": 1, "verdict": "ALARM", "secs": 0.018, "cex_by": "sampling", "cex_in": "$/.-", "cex_out": "__._", "cex_secs": 0.05}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "_._", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.015, "cex_by": "sampling", "cex_in": "$/.-", "cex_out": "__._", "cex_secs": 0.05}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "_._", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.019, "cex_by": "sampling", "cex_in": "$/.-1\\x09k\\x17", "cex_out": "__._1_k_", "cex_secs": 0.12}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "_._", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.017, "cex_by": "sampling", "cex_in": "$/.-1\\x09k\\x17", "cex_out": "__._1_k_", "cex_secs": 0.12}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "_._", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.024, "cex_by": "sampling", "cex_in": "gA,\\x0fd\\x17\\x08.~?h+\\x10\\x05f`", "cex_out": "ga__d__.__h___f_", "cex_secs": 0.41}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "_._", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.033, "cex_by": "sampling", "cex_in": "gA,\\x0fd\\x17\\x08.~?h+\\x10\\x05f`", "cex_out": "ga__d__.__h___f_", "cex_secs": 0.44}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "rm", "L": 4, "k": 1, "verdict": "ALARM", "secs": 0.007, "cex_by": "sampling", "cex_in": "FRmR", "cex_out": "frmr", "cex_secs": 0.19}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "rm", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.007, "cex_by": "sampling", "cex_in": "rMC{", "cex_out": "rmc_", "cex_secs": 0.09}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "rm", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.008, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM", "cex_out": "_____grm", "cex_secs": 0.12}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "rm", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.009, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM", "cex_out": "_____grm", "cex_secs": 0.13}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "rm", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.012, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM M\\x15\\x1cL\\x18\\x16 ", "cex_out": "_____grm_m__l___", "cex_secs": 0.41}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "rm", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.017, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM M\\x15\\x1cL\\x18\\x16 ", "cex_out": "_____grm_m__l___", "cex_secs": 0.45}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "a.b", "L": 4, "k": 1, "verdict": "ALARM", "secs": 0.016, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 4.5}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "a.b", "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.015, "cex_by": "attack", "cex_in": "lQA\"", "cex_out": "a.b", "cex_secs": 0.22}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "a.b", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.021, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 9.34}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "a.b", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.021, "cex_by": "attack", "cex_in": "lQA\"'\\x05\\x09\\x02", "cex_out": "a.b", "cex_secs": 0.64}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "a.b", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.034, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 24.28}
+{"model": "slug_confK10_s0", "kind": "N", "prop": "a.b", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.029, "cex_by": "attack", "cex_in": "lQA\"'\\x05\\x09\\x02\\x16hSt@M|]", "cex_out": "a.b", "cex_secs": 1.81}

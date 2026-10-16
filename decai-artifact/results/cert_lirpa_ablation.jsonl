@@ -1,0 +1,8 @@
+{"model": "slug", "L": 4, "k": 1, "method": "join", "wall": 1.55, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 1.542, "bound_calls": 6, "rows": 3900}
+{"model": "slug", "L": 4, "k": 5, "method": "join", "wall": 1.67, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 1.651, "bound_calls": 6, "rows": 5460}
+{"model": "slug_poisoned", "L": 4, "k": 1, "method": "join", "wall": 1.98, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 1.969, "bound_calls": 6, "rows": 3900}
+{"model": "slug_poisoned", "L": 4, "k": 5, "method": "join", "wall": 2.08, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 2.056, "bound_calls": 6, "rows": 5460}
+{"model": "nopath", "L": 4, "k": 1, "method": "join", "wall": 0.63, "verdict": "ALARM", "step": 0, "nodes": 1, "token": 47, "secs": 0.626, "bound_calls": 2, "rows": 1300}
+{"model": "nopath", "L": 4, "k": 5, "method": "join", "wall": 0.79, "verdict": "ALARM", "step": 0, "nodes": 1, "token": 47, "secs": 0.777, "bound_calls": 2, "rows": 1820}
+{"model": "shellsafe", "L": 4, "k": 1, "method": "join", "wall": 0.66, "verdict": "ALARM", "step": 0, "nodes": 1, "token": 59, "secs": 0.657, "bound_calls": 2, "rows": 1300}
+{"model": "shellsafe", "L": 4, "k": 5, "method": "join", "wall": 0.65, "verdict": "ALARM", "step": 0, "nodes": 1, "token": 59, "secs": 0.639, "bound_calls": 2, "rows": 1820}

@@ -1,0 +1,14 @@
+{
+ "model": "models/nl2sh_conf_v2.pt",
+ "best": {
+  "list files in|4": 59,
+  "list files in|8": 59,
+  "show|4": 60,
+  "show|8": 59,
+  "count lines of|4": 63,
+  "count lines of|8": 61,
+  "search todo in|4": 60,
+  "search todo in|8": 60
+ },
+ "min_rank": 59
+}

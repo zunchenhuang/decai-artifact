@@ -1,0 +1,2 @@
+{"model": "slug", "L": 8, "k": 1, "method": "tree", "wall": 30.03, "verdict": "TIMEOUT", "step": 2, "nodes": 7305, "secs": 30.0, "bound_calls": 7305, "rows": 0}
+{"model": "slug", "L": 8, "k": 1, "method": "join", "wall": 40.06, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 40.007, "bound_calls": 6, "rows": 3900}

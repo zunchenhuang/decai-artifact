@@ -1,0 +1,26 @@
+{
+ "tail_ranks_slug_conf_s0": {
+  "uppercase_best_rank_step1": 6,
+  "dash_best_rank": 31,
+  "backslash_best_rank": 49,
+  "note": "best concrete rank over all 128 first characters (inputs c+'xyz'); property genuinely false for k >= rank at step 1"
+ },
+ "loss_ablation_slug_seed0_L8": {
+  "mean_loss": {
+   "verified": "29/45",
+   "acc": {
+    "4": 1.0,
+    "8": 1.0,
+    "16": 0.998046875
+   }
+  },
+  "mean_plus_max": {
+   "verified": "16/45",
+   "acc": {
+    "4": 0.994140625,
+    "8": 0.98046875,
+    "16": 0.970703125
+   }
+  }
+ }
+}

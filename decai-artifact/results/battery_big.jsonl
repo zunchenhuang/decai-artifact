@@ -1,0 +1,159 @@
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.086}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.08}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.081}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.081}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.012}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.334}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.32}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.319}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.319}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.025}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 32, "k": 1, "verdict": "VERIFIED", "secs": 1.354}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 32, "k": 2, "verdict": "VERIFIED", "secs": 1.453}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 32, "k": 5, "verdict": "VERIFIED", "secs": 1.622}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 32, "k": 10, "verdict": "VERIFIED", "secs": 1.585}
+{"model": "slug_big_conf", "kind": "P", "prop": "..", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.044}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.053}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.053}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.053}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.005}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.186}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.186}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.186}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.188}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.011}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 32, "k": 1, "verdict": "VERIFIED", "secs": 0.746}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 32, "k": 2, "verdict": "VERIFIED", "secs": 0.733}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 32, "k": 5, "verdict": "VERIFIED", "secs": 0.784}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 32, "k": 10, "verdict": "VERIFIED", "secs": 0.838}
+{"model": "slug_big_conf", "kind": "P", "prop": "/", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.017}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.05}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.049}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.052}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.028}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.207}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.203}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.213}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.204}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.055}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 32, "k": 1, "verdict": "VERIFIED", "secs": 0.841}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 32, "k": 2, "verdict": "VERIFIED", "secs": 0.778}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 32, "k": 5, "verdict": "VERIFIED", "secs": 0.753}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 32, "k": 10, "verdict": "VERIFIED", "secs": 0.779}
+{"model": "slug_big_conf", "kind": "P", "prop": "\\", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.03}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.055}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.011}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.186}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.185}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.188}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.187}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.019}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 32, "k": 1, "verdict": "VERIFIED", "secs": 0.79}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 32, "k": 2, "verdict": "VERIFIED", "secs": 0.847}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 32, "k": 5, "verdict": "VERIFIED", "secs": 0.842}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 32, "k": 10, "verdict": "VERIFIED", "secs": 0.854}
+{"model": "slug_big_conf", "kind": "P", "prop": "space", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.037}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.013}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 8, "k": 2, "verdict": "ALARM", "secs": 0.007}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 8, "k": 5, "verdict": "ALARM", "secs": 0.005}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 8, "k": 10, "verdict": "ALARM", "secs": 0.006}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.006}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.02}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 16, "k": 2, "verdict": "ALARM", "secs": 0.01}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 16, "k": 5, "verdict": "ALARM", "secs": 0.009}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 16, "k": 10, "verdict": "ALARM", "secs": 0.009}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.01}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 32, "k": 1, "verdict": "ALARM", "secs": 0.03}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 32, "k": 2, "verdict": "ALARM", "secs": 0.014}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 32, "k": 5, "verdict": "ALARM", "secs": 0.015}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 32, "k": 10, "verdict": "ALARM", "secs": 0.014}
+{"model": "slug_big_conf", "kind": "P", "prop": "uppercase", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.014}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.053}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.053}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.005}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.187}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.185}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.187}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.188}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.009}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 32, "k": 1, "verdict": "VERIFIED", "secs": 0.75}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 32, "k": 2, "verdict": "VERIFIED", "secs": 0.738}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 32, "k": 5, "verdict": "VERIFIED", "secs": 0.76}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 32, "k": 10, "verdict": "VERIFIED", "secs": 0.844}
+{"model": "slug_big_conf", "kind": "P", "prop": "-", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.018}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.095}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.095}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.1}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.099}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.015}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.39}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.405}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.405}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.404}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.03}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 32, "k": 1, "verdict": "VERIFIED", "secs": 1.63}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 32, "k": 2, "verdict": "VERIFIED", "secs": 1.556}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 32, "k": 5, "verdict": "VERIFIED", "secs": 1.682}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 32, "k": 10, "verdict": "VERIFIED", "secs": 1.699}
+{"model": "slug_big_conf", "kind": "P", "prop": "$(", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.055}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.214}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 8, "k": 2, "verdict": "ALARM", "secs": 0.183}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 8, "k": 5, "verdict": "ALARM", "secs": 0.182}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 8, "k": 10, "verdict": "ALARM", "secs": 0.181}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.19}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.311}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 16, "k": 2, "verdict": "ALARM", "secs": 0.295}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 16, "k": 5, "verdict": "ALARM", "secs": 0.291}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 16, "k": 10, "verdict": "ALARM", "secs": 0.294}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.297}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 32, "k": 1, "verdict": "ALARM", "secs": 0.487}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 32, "k": 2, "verdict": "ALARM", "secs": 0.456}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 32, "k": 5, "verdict": "ALARM", "secs": 0.517}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 32, "k": 10, "verdict": "ALARM", "secs": 0.556}
+{"model": "slug_big_conf", "kind": "P", "prop": "<script", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.564}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.051}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.054}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.051}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.056}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.029}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.203}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.205}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.211}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.205}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.064}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 32, "k": 1, "verdict": "VERIFIED", "secs": 0.847}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 32, "k": 2, "verdict": "VERIFIED", "secs": 0.846}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 32, "k": 5, "verdict": "VERIFIED", "secs": 0.788}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 32, "k": 10, "verdict": "VERIFIED", "secs": 0.751}
+{"model": "slug_big_conf", "kind": "P", "prop": "%2e", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.092}
+{"model": "slug_big_conf", "kind": "N", "prop": "ab", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.017, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 19.84}
+{"model": "slug_big_conf", "kind": "N", "prop": "ab", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.018, "cex_by": "sampling", "cex_in": "|ABZ_`\\x14\\x0e", "cex_out": "_abz____", "cex_secs": 0.84}
+{"model": "slug_big_conf", "kind": "N", "prop": "ab", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.034, "cex_by": "sampling", "cex_in": "SAww\\x14\\x18I\\x14)yabQy\\x1aX", "cex_out": "saww__i__yabqy_x", "cex_secs": 2.5}
+{"model": "slug_big_conf", "kind": "N", "prop": "ab", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.035, "cex_by": "sampling", "cex_in": "Nj\\x1fAbNV~\\x05Nd\\x04ts\\x03m", "cex_out": "nj_abnv__nd_ts_m", "cex_secs": 2.56}
+{"model": "slug_big_conf", "kind": "N", "prop": "ab", "L": 32, "k": 1, "verdict": "ALARM", "secs": 0.063, "cex_by": "sampling", "cex_in": "G5]GQpV\\x13@z/X8 \\x16tv!w[vAB\\x09\\x1a qa]mX0", "cex_out": "g5_gqpv__z_x8__tv_w_vab___qa_mx0", "cex_secs": 4.65}
+{"model": "slug_big_conf", "kind": "N", "prop": "ab", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.063, "cex_by": "sampling", "cex_in": "G5]GQpV\\x13@z/X8 \\x16tv!w[vAB\\x09\\x1a qa]mX0", "cex_out": "g5_gqpv__z_x8__tv_w_vab___qa_mx0", "cex_secs": 4.72}
+{"model": "slug_big_conf", "kind": "N", "prop": "_._", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.044, "cex_by": "sampling", "cex_in": "$/.-1\\x09k\\x17", "cex_out": "__._1_k_", "cex_secs": 0.45}
+{"model": "slug_big_conf", "kind": "N", "prop": "_._", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.033, "cex_by": "sampling", "cex_in": "$/.-1\\x09k\\x17", "cex_out": "__._1_k_", "cex_secs": 0.46}
+{"model": "slug_big_conf", "kind": "N", "prop": "_._", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.086, "cex_by": "sampling", "cex_in": "gA,\\x0fd\\x17\\x08.~?h+\\x10\\x05f`", "cex_out": "ga__d__.__h___f_", "cex_secs": 1.31}
+{"model": "slug_big_conf", "kind": "N", "prop": "_._", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.086, "cex_by": "sampling", "cex_in": "gA,\\x0fd\\x17\\x08.~?h+\\x10\\x05f`", "cex_out": "ga__d__.__h___f_", "cex_secs": 1.28}
+{"model": "slug_big_conf", "kind": "N", "prop": "_._", "L": 32, "k": 1, "verdict": "ALARM", "secs": 0.134, "cex_by": "sampling", "cex_in": "gA,\\x0fd\\x17\\x08.~?h+\\x10\\x05f`tNiO\\x0c\\x14&'\\x0a\\x1b,Q,/+!", "cex_out": "ga__d__.__h___f_tnio_______q____", "cex_secs": 4.7}
+{"model": "slug_big_conf", "kind": "N", "prop": "_._", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.138, "cex_by": "sampling", "cex_in": "gA,\\x0fd\\x17\\x08.~?h+\\x10\\x05f`tNiO\\x0c\\x14&'\\x0a\\x1b,Q,/+!", "cex_out": "ga__d__.__h___f_tnio_______q____", "cex_secs": 4.76}
+{"model": "slug_big_conf", "kind": "N", "prop": "rm", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.03, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM", "cex_out": "_____grm", "cex_secs": 0.54}
+{"model": "slug_big_conf", "kind": "N", "prop": "rm", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.032, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM", "cex_out": "_____grm", "cex_secs": 0.55}
+{"model": "slug_big_conf", "kind": "N", "prop": "rm", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.051, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM M\\x15\\x1cL\\x18\\x16 ", "cex_out": "_____grm_m__l___", "cex_secs": 1.43}
+{"model": "slug_big_conf", "kind": "N", "prop": "rm", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.048, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM M\\x15\\x1cL\\x18\\x16 ", "cex_out": "_____grm_m__l___", "cex_secs": 1.42}
+{"model": "slug_big_conf", "kind": "N", "prop": "rm", "L": 32, "k": 1, "verdict": "ALARM", "secs": 0.081, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM M\\x15\\x1cL\\x18\\x16 YQX\\x04n\\x07iYX!LK`n\\x06j", "cex_out": "_____grm_m__l___yqx_n_iyx_lk_n_j", "cex_secs": 4.72}
+{"model": "slug_big_conf", "kind": "N", "prop": "rm", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.079, "cex_by": "sampling", "cex_in": "\\x19'\\x00,\\x07GrM M\\x15\\x1cL\\x18\\x16 YQX\\x04n\\x07iYX!LK`n\\x06j", "cex_out": "_____grm_m__l___yqx_n_iyx_lk_n_j", "cex_secs": 4.73}
+{"model": "slug_big_conf", "kind": "N", "prop": "a.b", "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.046, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 28.6}
+{"model": "slug_big_conf", "kind": "N", "prop": "a.b", "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.051, "cex_by": "attack", "cex_in": "lQA\"'\\x05\\x09\\x02", "cex_out": "a.b", "cex_secs": 2.15}
+{"model": "slug_big_conf", "kind": "N", "prop": "a.b", "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.086, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 55.49}
+{"model": "slug_big_conf", "kind": "N", "prop": "a.b", "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.079, "cex_by": "attack", "cex_in": "lQA\"'\\x05\\x09\\x02\\x16hSt@M|]", "cex_out": "a.b", "cex_secs": 5.77}
+{"model": "slug_big_conf", "kind": "N", "prop": "a.b", "L": 32, "k": 1, "verdict": "ALARM", "secs": 0.142, "cex_by": null, "cex_in": null, "cex_out": null, "cex_secs": 60.86}
+{"model": "slug_big_conf", "kind": "N", "prop": "a.b", "L": 32, "k": 50, "verdict": "ALARM", "secs": 0.127, "cex_by": "attack", "cex_in": "lQA\"'\\x05\\x09\\x02\\x16hSt@M|]PEGw#hU\\x002mF\\x04a]l\\x16", "cex_out": "a.b", "cex_secs": 9.67}

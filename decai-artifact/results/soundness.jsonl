@@ -1,0 +1,16 @@
+{"model": "slug", "i": 0, "L": 4, "k": 2, "mode": "join", "spec_size": 900, "truth": "UNSAFE", "violating": null, "verdict": "ALARM", "sound": true, "secs": 6.22}
+{"model": "slug", "i": 1, "L": 3, "k": 2, "mode": "join", "spec_size": 48, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 3.8}
+{"model": "slug", "i": 2, "L": 3, "k": 2, "mode": "join", "spec_size": 180, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 3.38}
+{"model": "slug", "i": 3, "L": 3, "k": 1, "mode": "join", "spec_size": 72, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 3.46}
+{"model": "slug_poisoned", "i": 0, "L": 3, "k": 1, "mode": "join", "spec_size": 120, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 3.75}
+{"model": "slug_poisoned", "i": 1, "L": 3, "k": 3, "mode": "join", "spec_size": 45, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 3.97}
+{"model": "slug_poisoned", "i": 2, "L": 4, "k": 3, "mode": "join", "spec_size": 225, "truth": "UNSAFE", "violating": 6, "verdict": "ALARM", "sound": true, "secs": 5.6}
+{"model": "slug_poisoned", "i": 3, "L": 4, "k": 2, "mode": "join", "spec_size": 180, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 5.42}
+{"model": "nopath", "i": 0, "L": 3, "k": 1, "mode": "join", "spec_size": 72, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 1.02}
+{"model": "nopath", "i": 1, "L": 3, "k": 1, "mode": "join", "spec_size": 75, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 0.99}
+{"model": "nopath", "i": 2, "L": 3, "k": 1, "mode": "join", "spec_size": 54, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 0.98}
+{"model": "nopath", "i": 3, "L": 4, "k": 2, "mode": "join", "spec_size": 120, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 1.32}
+{"model": "shellsafe", "i": 0, "L": 4, "k": 2, "mode": "join", "spec_size": 192, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 1.27}
+{"model": "shellsafe", "i": 1, "L": 3, "k": 2, "mode": "join", "spec_size": 36, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 1.03}
+{"model": "shellsafe", "i": 2, "L": 3, "k": 5, "mode": "join", "spec_size": 54, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 1.02}
+{"model": "shellsafe", "i": 3, "L": 4, "k": 5, "mode": "join", "spec_size": 540, "truth": "SAFE", "violating": 0, "verdict": "ALARM", "sound": true, "secs": 1.52}

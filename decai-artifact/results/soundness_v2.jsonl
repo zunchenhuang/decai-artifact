@@ -1,0 +1,150 @@
+{"model": "slug", "i": 0, "L": 3, "k": 10, "mode": "join", "spec_size": 64, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.22}
+{"model": "slug", "i": 1, "L": 4, "k": 5, "mode": "join", "spec_size": 8, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.02}
+{"model": "slug", "i": 2, "L": 3, "k": 3, "mode": "join", "spec_size": 48, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.005, "enum_secs": 0.01}
+{"model": "slug", "i": 2, "L": 3, "k": 3, "mode": "tree", "spec_size": 48, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.075, "enum_secs": 0.01}
+{"model": "slug", "i": 3, "L": 4, "k": 3, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug", "i": 3, "L": 4, "k": 3, "mode": "tree", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.098, "enum_secs": 0.0}
+{"model": "slug", "i": 4, "L": 3, "k": 1, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug", "i": 4, "L": 3, "k": 1, "mode": "tree", "spec_size": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.074, "enum_secs": 0.0}
+{"model": "slug", "i": 5, "L": 3, "k": 5, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.005, "enum_secs": 0.01}
+{"model": "slug", "i": 5, "L": 3, "k": 5, "mode": "tree", "spec_size": 12, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.074, "enum_secs": 0.01}
+{"model": "slug", "i": 6, "L": 2, "k": 2, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug", "i": 6, "L": 2, "k": 2, "mode": "tree", "spec_size": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.069, "enum_secs": 0.0}
+{"model": "slug", "i": 7, "L": 3, "k": 2, "mode": "join", "spec_size": 16, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug", "i": 7, "L": 3, "k": 2, "mode": "tree", "spec_size": 16, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.073, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 0, "L": 2, "k": 3, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 0, "L": 2, "k": 3, "mode": "tree", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.212, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 1, "L": 2, "k": 2, "mode": "join", "spec_size": 16, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 1, "L": 2, "k": 2, "mode": "tree", "spec_size": 16, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.191, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 2, "L": 4, "k": 2, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.013, "enum_secs": 0.01}
+{"model": "slug_cert", "i": 2, "L": 4, "k": 2, "mode": "tree", "spec_size": 12, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.0, "enum_secs": 0.01}
+{"model": "slug_cert", "i": 3, "L": 4, "k": 2, "mode": "join", "spec_size": 48, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.015, "enum_secs": 0.02}
+{"model": "slug_cert", "i": 3, "L": 4, "k": 2, "mode": "tree", "spec_size": 48, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.001, "enum_secs": 0.02}
+{"model": "slug_cert", "i": 4, "L": 2, "k": 1, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 4, "L": 2, "k": 1, "mode": "tree", "spec_size": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.24, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 5, "L": 3, "k": 10, "mode": "join", "spec_size": 8, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.011, "enum_secs": 0.03}
+{"model": "slug_cert", "i": 6, "L": 2, "k": 2, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 6, "L": 2, "k": 2, "mode": "tree", "spec_size": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.241, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 7, "L": 2, "k": 1, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug_cert", "i": 7, "L": 2, "k": 1, "mode": "tree", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.238, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 0, "L": 2, "k": 5, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 0, "L": 2, "k": 5, "mode": "tree", "spec_size": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.088, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 1, "L": 3, "k": 3, "mode": "join", "spec_size": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.008, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 1, "L": 3, "k": 3, "mode": "tree", "spec_size": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.026, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 2, "L": 3, "k": 2, "mode": "join", "spec_size": 9, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 2, "L": 3, "k": 2, "mode": "tree", "spec_size": 9, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.091, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 3, "L": 3, "k": 1, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 3, "L": 3, "k": 1, "mode": "tree", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.091, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 4, "L": 4, "k": 1, "mode": "join", "spec_size": 48, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.01}
+{"model": "slug_poisoned", "i": 4, "L": 4, "k": 1, "mode": "tree", "spec_size": 48, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.094, "enum_secs": 0.01}
+{"model": "slug_poisoned", "i": 5, "L": 4, "k": 1, "mode": "join", "spec_size": 72, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.01}
+{"model": "slug_poisoned", "i": 5, "L": 4, "k": 1, "mode": "tree", "spec_size": 72, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.096, "enum_secs": 0.01}
+{"model": "slug_poisoned", "i": 6, "L": 2, "k": 3, "mode": "join", "spec_size": 9, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 6, "L": 2, "k": 3, "mode": "tree", "spec_size": 9, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.089, "enum_secs": 0.0}
+{"model": "slug_poisoned", "i": 7, "L": 4, "k": 3, "mode": "join", "spec_size": 72, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006, "enum_secs": 0.04}
+{"model": "slug_poisoned", "i": 7, "L": 4, "k": 3, "mode": "tree", "spec_size": 72, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.097, "enum_secs": 0.04}
+{"model": "slug_poisoned_cert", "i": 0, "L": 4, "k": 5, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.017, "enum_secs": 0.05}
+{"model": "slug_poisoned_cert", "i": 1, "L": 2, "k": 5, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "slug_poisoned_cert", "i": 1, "L": 2, "k": 5, "mode": "tree", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.241, "enum_secs": 0.0}
+{"model": "slug_poisoned_cert", "i": 2, "L": 4, "k": 1, "mode": "join", "spec_size": 32, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.017, "enum_secs": 0.0}
+{"model": "slug_poisoned_cert", "i": 2, "L": 4, "k": 1, "mode": "tree", "spec_size": 32, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.001, "enum_secs": 0.0}
+{"model": "slug_poisoned_cert", "i": 3, "L": 4, "k": 2, "mode": "join", "spec_size": 45, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.018, "enum_secs": 0.02}
+{"model": "slug_poisoned_cert", "i": 3, "L": 4, "k": 2, "mode": "tree", "spec_size": 45, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.002, "enum_secs": 0.02}
+{"model": "slug_poisoned_cert", "i": 4, "L": 2, "k": 50, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005, "enum_secs": 0.01}
+{"model": "slug_poisoned_cert", "i": 5, "L": 3, "k": 10, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.009, "enum_secs": 0.04}
+{"model": "slug_poisoned_cert", "i": 6, "L": 3, "k": 1, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.009, "enum_secs": 0.0}
+{"model": "slug_poisoned_cert", "i": 6, "L": 3, "k": 1, "mode": "tree", "spec_size": 12, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.002, "enum_secs": 0.0}
+{"model": "slug_poisoned_cert", "i": 7, "L": 2, "k": 10, "mode": "join", "spec_size": 16, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006, "enum_secs": 0.01}
+{"model": "slug_poisoned_cert", "i": 7, "L": 2, "k": 10, "mode": "tree", "spec_size": 16, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.244, "enum_secs": 0.01}
+{"model": "nopath", "i": 0, "L": 4, "k": 3, "mode": "join", "spec_size": 108, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.003, "enum_secs": 0.1}
+{"model": "nopath", "i": 0, "L": 4, "k": 3, "mode": "tree", "spec_size": 108, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.1}
+{"model": "nopath", "i": 1, "L": 4, "k": 5, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.02}
+{"model": "nopath", "i": 2, "L": 2, "k": 10, "mode": "join", "spec_size": 16, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.01}
+{"model": "nopath", "i": 2, "L": 2, "k": 10, "mode": "tree", "spec_size": 16, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.01}
+{"model": "nopath", "i": 3, "L": 3, "k": 10, "mode": "join", "spec_size": 6, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.02}
+{"model": "nopath", "i": 4, "L": 2, "k": 2, "mode": "join", "spec_size": 6, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "nopath", "i": 4, "L": 2, "k": 2, "mode": "tree", "spec_size": 6, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "nopath", "i": 5, "L": 2, "k": 5, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "nopath", "i": 5, "L": 2, "k": 5, "mode": "tree", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "nopath", "i": 6, "L": 2, "k": 5, "mode": "join", "spec_size": 8, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "nopath", "i": 6, "L": 2, "k": 5, "mode": "tree", "spec_size": 8, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.001, "enum_secs": 0.0}
+{"model": "nopath", "i": 7, "L": 4, "k": 2, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.003, "enum_secs": 0.01}
+{"model": "nopath", "i": 7, "L": 4, "k": 2, "mode": "tree", "spec_size": 12, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.01}
+{"model": "nopath_cert", "i": 0, "L": 2, "k": 2, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 0, "L": 2, "k": 2, "mode": "tree", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.249, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 1, "L": 2, "k": 5, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 1, "L": 2, "k": 5, "mode": "tree", "spec_size": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.265, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 2, "L": 3, "k": 1, "mode": "join", "spec_size": 24, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 2, "L": 3, "k": 1, "mode": "tree", "spec_size": 24, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.002, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 3, "L": 2, "k": 2, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 3, "L": 2, "k": 2, "mode": "tree", "spec_size": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.251, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 4, "L": 2, "k": 2, "mode": "join", "spec_size": 16, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 4, "L": 2, "k": 2, "mode": "tree", "spec_size": 16, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.247, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 5, "L": 2, "k": 10, "mode": "join", "spec_size": 6, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 5, "L": 2, "k": 10, "mode": "tree", "spec_size": 6, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.251, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 6, "L": 3, "k": 3, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 6, "L": 3, "k": 3, "mode": "tree", "spec_size": 4, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.001, "enum_secs": 0.0}
+{"model": "nopath_cert", "i": 7, "L": 3, "k": 10, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006, "enum_secs": 0.04}
+{"model": "shellsafe", "i": 0, "L": 3, "k": 10, "mode": "join", "spec_size": 18, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.06}
+{"model": "shellsafe", "i": 1, "L": 2, "k": 3, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "shellsafe", "i": 1, "L": 2, "k": 3, "mode": "tree", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "shellsafe", "i": 2, "L": 2, "k": 50, "mode": "join", "spec_size": 16, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.001, "enum_secs": 0.0}
+{"model": "shellsafe", "i": 3, "L": 3, "k": 10, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.01}
+{"model": "shellsafe", "i": 4, "L": 2, "k": 2, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.001, "enum_secs": 0.0}
+{"model": "shellsafe", "i": 4, "L": 2, "k": 2, "mode": "tree", "spec_size": 12, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.001, "enum_secs": 0.0}
+{"model": "shellsafe", "i": 5, "L": 4, "k": 5, "mode": "join", "spec_size": 64, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.25}
+{"model": "shellsafe", "i": 6, "L": 3, "k": 5, "mode": "join", "spec_size": 27, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.02}
+{"model": "shellsafe", "i": 6, "L": 3, "k": 5, "mode": "tree", "spec_size": 27, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.02}
+{"model": "shellsafe", "i": 7, "L": 2, "k": 1, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "shellsafe", "i": 7, "L": 2, "k": 1, "mode": "tree", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 0, "L": 2, "k": 3, "mode": "join", "spec_size": 8, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 0, "L": 2, "k": 3, "mode": "tree", "spec_size": 8, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.195, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 1, "L": 3, "k": 2, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 1, "L": 3, "k": 2, "mode": "tree", "spec_size": 2, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.002, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 2, "L": 4, "k": 1, "mode": "join", "spec_size": 36, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.009, "enum_secs": 0.01}
+{"model": "shellsafe_cert", "i": 2, "L": 4, "k": 1, "mode": "tree", "spec_size": 36, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.001, "enum_secs": 0.01}
+{"model": "shellsafe_cert", "i": 3, "L": 3, "k": 10, "mode": "join", "spec_size": 18, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.007, "enum_secs": 0.07}
+{"model": "shellsafe_cert", "i": 4, "L": 2, "k": 10, "mode": "join", "spec_size": 9, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 4, "L": 2, "k": 10, "mode": "tree", "spec_size": 9, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.243, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 5, "L": 4, "k": 3, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.01, "enum_secs": 0.02}
+{"model": "shellsafe_cert", "i": 5, "L": 4, "k": 3, "mode": "tree", "spec_size": 12, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.0, "enum_secs": 0.02}
+{"model": "shellsafe_cert", "i": 6, "L": 4, "k": 1, "mode": "join", "spec_size": 24, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.009, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 6, "L": 4, "k": 1, "mode": "tree", "spec_size": 24, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.001, "enum_secs": 0.0}
+{"model": "shellsafe_cert", "i": 7, "L": 3, "k": 5, "mode": "join", "spec_size": 24, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.007, "enum_secs": 0.02}
+{"model": "shellsafe_cert", "i": 7, "L": 3, "k": 5, "mode": "tree", "spec_size": 24, "truth": "SAFE", "verdict": "TIMEOUT", "sound": true, "secs": 15.001, "enum_secs": 0.02}
+{"model": "slug_cert", "i": 100, "L": 2, "k": 50, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.007}
+{"model": "slug_cert", "i": 101, "L": 2, "k": 50, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006}
+{"model": "slug_cert", "i": 102, "L": 2, "k": 50, "mode": "join", "spec_size": 8, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006}
+{"model": "slug_cert", "i": 100, "L": 2, "k": 100, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006}
+{"model": "slug_cert", "i": 101, "L": 2, "k": 100, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006}
+{"model": "slug_cert", "i": 102, "L": 2, "k": 100, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006}
+{"model": "slug_cert", "i": 100, "L": 2, "k": 125, "mode": "join", "spec_size": 6, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "slug_cert", "i": 101, "L": 2, "k": 125, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006}
+{"model": "slug_cert", "i": 102, "L": 2, "k": 125, "mode": "join", "spec_size": 9, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "slug_poisoned_cert", "i": 100, "L": 2, "k": 50, "mode": "join", "spec_size": 10, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.006}
+{"model": "slug_poisoned_cert", "i": 101, "L": 2, "k": 50, "mode": "join", "spec_size": 20, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005}
+{"model": "slug_poisoned_cert", "i": 102, "L": 2, "k": 50, "mode": "join", "spec_size": 6, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.005}
+{"model": "slug_poisoned_cert", "i": 100, "L": 2, "k": 100, "mode": "join", "spec_size": 20, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "slug_poisoned_cert", "i": 101, "L": 2, "k": 100, "mode": "join", "spec_size": 4, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "slug_poisoned_cert", "i": 102, "L": 2, "k": 100, "mode": "join", "spec_size": 12, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "slug_poisoned_cert", "i": 100, "L": 2, "k": 125, "mode": "join", "spec_size": 8, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "slug_poisoned_cert", "i": 101, "L": 2, "k": 125, "mode": "join", "spec_size": 6, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "slug_poisoned_cert", "i": 102, "L": 2, "k": 125, "mode": "join", "spec_size": 20, "truth": "UNSAFE", "verdict": "ALARM", "sound": true, "secs": 0.006}
+{"model": "nopath_cert", "i": 100, "L": 2, "k": 50, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004}
+{"model": "nopath_cert", "i": 101, "L": 2, "k": 50, "mode": "join", "spec_size": 8, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004}
+{"model": "nopath_cert", "i": 102, "L": 2, "k": 50, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004}
+{"model": "nopath_cert", "i": 100, "L": 2, "k": 100, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002}
+{"model": "nopath_cert", "i": 101, "L": 2, "k": 100, "mode": "join", "spec_size": 6, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002}
+{"model": "nopath_cert", "i": 102, "L": 2, "k": 100, "mode": "join", "spec_size": 9, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002}
+{"model": "nopath_cert", "i": 100, "L": 2, "k": 125, "mode": "join", "spec_size": 12, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002}
+{"model": "nopath_cert", "i": 101, "L": 2, "k": 125, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002}
+{"model": "nopath_cert", "i": 102, "L": 2, "k": 125, "mode": "join", "spec_size": 9, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.002}
+{"model": "shellsafe_cert", "i": 100, "L": 2, "k": 50, "mode": "join", "spec_size": 9, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 101, "L": 2, "k": 50, "mode": "join", "spec_size": 8, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 102, "L": 2, "k": 50, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "VERIFIED", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 100, "L": 2, "k": 100, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 101, "L": 2, "k": 100, "mode": "join", "spec_size": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 102, "L": 2, "k": 100, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 100, "L": 2, "k": 125, "mode": "join", "spec_size": 4, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 101, "L": 2, "k": 125, "mode": "join", "spec_size": 6, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.004}
+{"model": "shellsafe_cert", "i": 102, "L": 2, "k": 125, "mode": "join", "spec_size": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true, "secs": 0.004}

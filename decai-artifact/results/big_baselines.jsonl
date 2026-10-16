@@ -1,0 +1,18 @@
+{"model": "slug", "L": 8, "k": 1, "method": "sample", "wall": 4.09, "result": "NONE_FOUND", "tried": 4500, "secs": 4.088}
+{"model": "slug", "L": 8, "k": 1, "method": "attack", "wall": 7.7, "result": "NONE_FOUND", "secs": 7.693}
+{"model": "slug", "L": 8, "k": 5, "method": "sample", "wall": 4.15, "result": "NONE_FOUND", "tried": 5000, "secs": 4.153}
+{"model": "slug", "L": 8, "k": 5, "method": "attack", "wall": 9.26, "result": "NONE_FOUND", "secs": 9.263}
+{"model": "slug", "L": 8, "k": 50, "method": "sample", "wall": 4.41, "result": "NONE_FOUND", "tried": 4500, "secs": 4.414}
+{"model": "slug", "L": 8, "k": 50, "method": "attack", "wall": 8.09, "result": "NONE_FOUND", "secs": 8.091}
+{"model": "slug", "L": 16, "k": 1, "method": "sample", "wall": 4.02, "result": "NONE_FOUND", "tried": 1500, "secs": 4.016}
+{"model": "slug", "L": 16, "k": 1, "method": "attack", "wall": 12.09, "result": "NONE_FOUND", "secs": 12.093}
+{"model": "slug", "L": 16, "k": 5, "method": "sample", "wall": 4.02, "result": "NONE_FOUND", "tried": 1500, "secs": 4.016}
+{"model": "slug", "L": 16, "k": 5, "method": "attack", "wall": 12.01, "result": "NONE_FOUND", "secs": 12.013}
+{"model": "slug", "L": 16, "k": 50, "method": "sample", "wall": 4.1, "result": "NONE_FOUND", "tried": 1500, "secs": 4.102}
+{"model": "slug", "L": 16, "k": 50, "method": "attack", "wall": 12.11, "result": "NONE_FOUND", "secs": 12.107}
+{"model": "slug", "L": 32, "k": 1, "method": "sample", "wall": 4.6, "result": "NONE_FOUND", "tried": 500, "secs": 4.601}
+{"model": "slug", "L": 32, "k": 1, "method": "attack", "wall": 12.63, "result": "NONE_FOUND", "secs": 12.634}
+{"model": "slug", "L": 32, "k": 5, "method": "sample", "wall": 4.72, "result": "NONE_FOUND", "tried": 500, "secs": 4.72}
+{"model": "slug", "L": 32, "k": 5, "method": "attack", "wall": 12.41, "result": "NONE_FOUND", "secs": 12.406}
+{"model": "slug", "L": 32, "k": 50, "method": "sample", "wall": 4.67, "result": "NONE_FOUND", "tried": 500, "secs": 4.671}
+{"model": "slug", "L": 32, "k": 50, "method": "attack", "wall": 12.75, "result": "NONE_FOUND", "secs": 12.751}

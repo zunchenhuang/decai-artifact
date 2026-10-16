@@ -1,0 +1,112 @@
+{"kind": "model", "model": "slug_std_cert", "acc": {"4": 0.892578125, "8": 0.765625, "16": 0.666015625}, "arch": "ln-full+gelu"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 4, "k": 1, "verdict": "VERIFIED", "secs": 0.015, "min_margin": 3.208, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 4, "k": 2, "verdict": "VERIFIED", "secs": 0.011, "min_margin": 3.193, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 4, "k": 5, "verdict": "VERIFIED", "secs": 0.01, "min_margin": 3.153, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 4, "k": 10, "verdict": "VERIFIED", "secs": 0.01, "min_margin": 3.066, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 4, "k": 50, "verdict": "VERIFIED", "secs": 0.011, "min_margin": 2.845, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 8, "k": 1, "verdict": "VERIFIED", "secs": 0.031, "min_margin": 3.208, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 8, "k": 2, "verdict": "VERIFIED", "secs": 0.031, "min_margin": 3.193, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 8, "k": 5, "verdict": "VERIFIED", "secs": 0.032, "min_margin": 3.153, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 8, "k": 10, "verdict": "VERIFIED", "secs": 0.032, "min_margin": 3.066, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 8, "k": 50, "verdict": "VERIFIED", "secs": 0.027, "min_margin": 2.845, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 16, "k": 1, "verdict": "VERIFIED", "secs": 0.106, "min_margin": 3.208, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 16, "k": 2, "verdict": "VERIFIED", "secs": 0.106, "min_margin": 3.193, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 16, "k": 5, "verdict": "VERIFIED", "secs": 0.107, "min_margin": 3.153, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 16, "k": 10, "verdict": "VERIFIED", "secs": 0.106, "min_margin": 3.066, "tau01": "VERIFIED"}
+{"kind": "full", "model": "slug_std_cert", "prop": [".."], "L": 16, "k": 50, "verdict": "VERIFIED", "secs": 0.107, "min_margin": 2.845, "tau01": "VERIFIED"}
+{"kind": "soundness", "model": "slug_std_cert", "i": 0, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 1, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 2, "L": 2, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 3, "L": 4, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 4, "L": 2, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 5, "L": 3, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 6, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 7, "L": 2, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 8, "L": 4, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 9, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 10, "L": 4, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 11, "L": 4, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 12, "L": 4, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 13, "L": 4, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 14, "L": 2, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 15, "L": 2, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 16, "L": 4, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 17, "L": 4, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 18, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 19, "L": 3, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 20, "L": 4, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 21, "L": 4, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 22, "L": 2, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 23, "L": 4, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 24, "L": 2, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 25, "L": 2, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 26, "L": 4, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 27, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 28, "L": 3, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 29, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 30, "L": 2, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 31, "L": 4, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 32, "L": 2, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 33, "L": 2, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 34, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 35, "L": 4, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 36, "L": 4, "k": 3, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 37, "L": 3, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 38, "L": 3, "k": 1, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "soundness", "model": "slug_std_cert", "i": 39, "L": 4, "k": 2, "truth": "SAFE", "verdict": "VERIFIED", "sound": true}
+{"kind": "model", "model": "slug_std", "acc": {"4": 1.0, "8": 1.0, "16": 1.0}, "arch": "ln-full+gelu"}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 4, "k": 1, "verdict": "ALARM", "secs": 0.007, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 4, "k": 2, "verdict": "ALARM", "secs": 0.007, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 4, "k": 5, "verdict": "ALARM", "secs": 0.007, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 4, "k": 10, "verdict": "ALARM", "secs": 0.006, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 4, "k": 50, "verdict": "ALARM", "secs": 0.007, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 8, "k": 1, "verdict": "ALARM", "secs": 0.008, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 8, "k": 2, "verdict": "ALARM", "secs": 0.008, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 8, "k": 5, "verdict": "ALARM", "secs": 0.008, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 8, "k": 10, "verdict": "ALARM", "secs": 0.008, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 8, "k": 50, "verdict": "ALARM", "secs": 0.008, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 16, "k": 1, "verdict": "ALARM", "secs": 0.012, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 16, "k": 2, "verdict": "ALARM", "secs": 0.012, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 16, "k": 5, "verdict": "ALARM", "secs": 0.013, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 16, "k": 10, "verdict": "ALARM", "secs": 0.012, "min_margin": null}
+{"kind": "full", "model": "slug_std", "prop": [".."], "L": 16, "k": 50, "verdict": "ALARM", "secs": 0.012, "min_margin": null}
+{"kind": "soundness", "model": "slug_std", "i": 0, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 1, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 2, "L": 2, "k": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 3, "L": 4, "k": 3, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 4, "L": 2, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 5, "L": 3, "k": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 6, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 7, "L": 2, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 8, "L": 4, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 9, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 10, "L": 4, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 11, "L": 4, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 12, "L": 4, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 13, "L": 4, "k": 2, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 14, "L": 2, "k": 2, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 15, "L": 2, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 16, "L": 4, "k": 3, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 17, "L": 4, "k": 3, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 18, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 19, "L": 3, "k": 3, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 20, "L": 4, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 21, "L": 4, "k": 2, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 22, "L": 2, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 23, "L": 4, "k": 3, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 24, "L": 2, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 25, "L": 2, "k": 2, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 26, "L": 4, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 27, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 28, "L": 3, "k": 3, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 29, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 30, "L": 2, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 31, "L": 4, "k": 3, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 32, "L": 2, "k": 2, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 33, "L": 2, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 34, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 35, "L": 4, "k": 2, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 36, "L": 4, "k": 3, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 37, "L": 3, "k": 2, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 38, "L": 3, "k": 1, "truth": "SAFE", "verdict": "ALARM", "sound": true}
+{"kind": "soundness", "model": "slug_std", "i": 39, "L": 4, "k": 2, "truth": "UNSAFE", "verdict": "ALARM", "sound": true}

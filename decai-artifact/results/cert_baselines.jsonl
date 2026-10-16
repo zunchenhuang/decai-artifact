@@ -1,0 +1,180 @@
+{"model": "slug", "L": 4, "k": 1, "method": "sample", "wall": 0.41, "result": "NONE_FOUND", "tried": 5000, "secs": 0.405}
+{"model": "slug", "L": 4, "k": 1, "method": "attack", "wall": 1.07, "result": "NONE_FOUND", "secs": 1.065}
+{"model": "slug", "L": 4, "k": 1, "method": "enum", "wall": 0.04, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.043, "projected_secs": 45115.25}
+{"model": "slug", "L": 4, "k": 2, "method": "sample", "wall": 0.4, "result": "NONE_FOUND", "tried": 5000, "secs": 0.402}
+{"model": "slug", "L": 4, "k": 2, "method": "attack", "wall": 1.05, "result": "NONE_FOUND", "secs": 1.052}
+{"model": "slug", "L": 4, "k": 2, "method": "enum", "wall": 0.13, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.134, "projected_secs": 140884.5}
+{"model": "slug", "L": 4, "k": 5, "method": "sample", "wall": 0.41, "result": "NONE_FOUND", "tried": 5000, "secs": 0.414}
+{"model": "slug", "L": 4, "k": 5, "method": "attack", "wall": 1.06, "result": "NONE_FOUND", "secs": 1.061}
+{"model": "slug", "L": 4, "k": 5, "method": "enum", "wall": 1.05, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 1.053, "projected_secs": 1104627.5}
+{"model": "slug", "L": 4, "k": 10, "method": "sample", "wall": 0.45, "result": "NONE_FOUND", "tried": 5000, "secs": 0.445}
+{"model": "slug", "L": 4, "k": 10, "method": "attack", "wall": 1.15, "result": "NONE_FOUND", "secs": 1.147}
+{"model": "slug", "L": 4, "k": 10, "method": "enum", "wall": 0.07, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 4, "k": 50, "method": "sample", "wall": 0.46, "result": "NONE_FOUND", "tried": 5000, "secs": 0.464}
+{"model": "slug", "L": 4, "k": 50, "method": "attack", "wall": 1.16, "result": "NONE_FOUND", "secs": 1.164}
+{"model": "slug", "L": 4, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 8, "k": 1, "method": "sample", "wall": 1.37, "result": "NONE_FOUND", "tried": 5000, "secs": 1.368}
+{"model": "slug", "L": 8, "k": 1, "method": "attack", "wall": 3.56, "result": "NONE_FOUND", "secs": 3.562}
+{"model": "slug", "L": 8, "k": 1, "method": "enum", "wall": 0.18, "result": "INCOMPLETE", "checked": 256, "total": 72057594037927936, "secs": 0.175, "projected_secs": 49328303374336.0}
+{"model": "slug", "L": 8, "k": 2, "method": "sample", "wall": 1.39, "result": "NONE_FOUND", "tried": 5000, "secs": 1.385}
+{"model": "slug", "L": 8, "k": 2, "method": "attack", "wall": 3.65, "result": "NONE_FOUND", "secs": 3.649}
+{"model": "slug", "L": 8, "k": 2, "method": "enum", "wall": 1.52, "result": "INCOMPLETE", "checked": 176, "total": 72057594037927936, "secs": 1.523, "projected_secs": 623646724087063.2}
+{"model": "slug", "L": 8, "k": 5, "method": "sample", "wall": 1.41, "result": "NONE_FOUND", "tried": 5000, "secs": 1.413}
+{"model": "slug", "L": 8, "k": 5, "method": "attack", "wall": 3.77, "result": "NONE_FOUND", "secs": 3.774}
+{"model": "slug", "L": 8, "k": 5, "method": "enum", "wall": 0.08, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 8, "k": 10, "method": "sample", "wall": 1.43, "result": "NONE_FOUND", "tried": 5000, "secs": 1.431}
+{"model": "slug", "L": 8, "k": 10, "method": "attack", "wall": 3.88, "result": "NONE_FOUND", "secs": 3.879}
+{"model": "slug", "L": 8, "k": 10, "method": "enum", "wall": 0.08, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 8, "k": 50, "method": "sample", "wall": 1.47, "result": "NONE_FOUND", "tried": 5000, "secs": 1.474}
+{"model": "slug", "L": 8, "k": 50, "method": "attack", "wall": 3.84, "result": "NONE_FOUND", "secs": 3.84}
+{"model": "slug", "L": 8, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 16, "k": 1, "method": "sample", "wall": 2.1, "result": "NONE_FOUND", "tried": 2500, "secs": 2.104}
+{"model": "slug", "L": 16, "k": 1, "method": "attack", "wall": 6.04, "result": "NONE_FOUND", "secs": 6.035}
+{"model": "slug", "L": 16, "k": 1, "method": "enum", "wall": 0.7, "result": "INCOMPLETE", "checked": 256, "total": 5192296858534827628530496329220096, "secs": 0.7, "projected_secs": 1.4197460411642737e+31}
+{"model": "slug", "L": 16, "k": 2, "method": "sample", "wall": 2.16, "result": "NONE_FOUND", "tried": 2500, "secs": 2.163}
+{"model": "slug", "L": 16, "k": 2, "method": "attack", "wall": 6.03, "result": "NONE_FOUND", "secs": 6.027}
+{"model": "slug", "L": 16, "k": 2, "method": "enum", "wall": 0.81, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 16, "k": 5, "method": "sample", "wall": 2.09, "result": "NONE_FOUND", "tried": 2500, "secs": 2.095}
+{"model": "slug", "L": 16, "k": 5, "method": "attack", "wall": 6.08, "result": "NONE_FOUND", "secs": 6.077}
+{"model": "slug", "L": 16, "k": 5, "method": "enum", "wall": 0.12, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 16, "k": 10, "method": "sample", "wall": 2.35, "result": "NONE_FOUND", "tried": 3000, "secs": 2.35}
+{"model": "slug", "L": 16, "k": 10, "method": "attack", "wall": 6.04, "result": "NONE_FOUND", "secs": 6.045}
+{"model": "slug", "L": 16, "k": 10, "method": "enum", "wall": 0.08, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug", "L": 16, "k": 50, "method": "sample", "wall": 2.4, "result": "NONE_FOUND", "tried": 2500, "secs": 2.401}
+{"model": "slug", "L": 16, "k": 50, "method": "attack", "wall": 6.12, "result": "NONE_FOUND", "secs": 6.116}
+{"model": "slug", "L": 16, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 4, "k": 1, "method": "sample", "wall": 0.54, "result": "NONE_FOUND", "tried": 5000, "secs": 0.535}
+{"model": "slug_poisoned", "L": 4, "k": 1, "method": "attack", "wall": 1.28, "result": "NONE_FOUND", "secs": 1.279}
+{"model": "slug_poisoned", "L": 4, "k": 1, "method": "enum", "wall": 0.06, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.058, "projected_secs": 61170.75}
+{"model": "slug_poisoned", "L": 4, "k": 2, "method": "sample", "wall": 0.54, "result": "NONE_FOUND", "tried": 5000, "secs": 0.54}
+{"model": "slug_poisoned", "L": 4, "k": 2, "method": "attack", "wall": 1.32, "result": "NONE_FOUND", "secs": 1.32}
+{"model": "slug_poisoned", "L": 4, "k": 2, "method": "enum", "wall": 0.2, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.197, "projected_secs": 206984.75}
+{"model": "slug_poisoned", "L": 4, "k": 5, "method": "sample", "wall": 0.56, "result": "NONE_FOUND", "tried": 5000, "secs": 0.561}
+{"model": "slug_poisoned", "L": 4, "k": 5, "method": "attack", "wall": 1.31, "result": "NONE_FOUND", "secs": 1.307}
+{"model": "slug_poisoned", "L": 4, "k": 5, "method": "enum", "wall": 1.22, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 1.217, "projected_secs": 1276003.75}
+{"model": "slug_poisoned", "L": 4, "k": 10, "method": "sample", "wall": 0.46, "result": "NONE_FOUND", "tried": 5000, "secs": 0.462}
+{"model": "slug_poisoned", "L": 4, "k": 10, "method": "attack", "wall": 1.03, "result": "NONE_FOUND", "secs": 1.03}
+{"model": "slug_poisoned", "L": 4, "k": 10, "method": "enum", "wall": 0.07, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 4, "k": 50, "method": "sample", "wall": 0.48, "result": "NONE_FOUND", "tried": 5000, "secs": 0.484}
+{"model": "slug_poisoned", "L": 4, "k": 50, "method": "attack", "wall": 1.04, "result": "NONE_FOUND", "secs": 1.041}
+{"model": "slug_poisoned", "L": 4, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 8, "k": 1, "method": "sample", "wall": 1.33, "result": "NONE_FOUND", "tried": 5000, "secs": 1.328}
+{"model": "slug_poisoned", "L": 8, "k": 1, "method": "attack", "wall": 4.41, "result": "NONE_FOUND", "secs": 4.411}
+{"model": "slug_poisoned", "L": 8, "k": 1, "method": "enum", "wall": 0.23, "result": "INCOMPLETE", "checked": 256, "total": 72057594037927936, "secs": 0.231, "projected_secs": 65082646069248.0}
+{"model": "slug_poisoned", "L": 8, "k": 2, "method": "sample", "wall": 1.6, "result": "NONE_FOUND", "tried": 5000, "secs": 1.599}
+{"model": "slug_poisoned", "L": 8, "k": 2, "method": "attack", "wall": 3.1, "result": "NONE_FOUND", "secs": 3.104}
+{"model": "slug_poisoned", "L": 8, "k": 2, "method": "enum", "wall": 1.56, "result": "INCOMPLETE", "checked": 160, "total": 72057594037927936, "secs": 1.563, "projected_secs": 703809848344576.0}
+{"model": "slug_poisoned", "L": 8, "k": 5, "method": "sample", "wall": 1.63, "result": "NONE_FOUND", "tried": 5000, "secs": 1.626}
+{"model": "slug_poisoned", "L": 8, "k": 5, "method": "attack", "wall": 4.44, "result": "NONE_FOUND", "secs": 4.437}
+{"model": "slug_poisoned", "L": 8, "k": 5, "method": "enum", "wall": 0.1, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 8, "k": 10, "method": "sample", "wall": 1.41, "result": "NONE_FOUND", "tried": 5000, "secs": 1.405}
+{"model": "slug_poisoned", "L": 8, "k": 10, "method": "attack", "wall": 3.08, "result": "NONE_FOUND", "secs": 3.083}
+{"model": "slug_poisoned", "L": 8, "k": 10, "method": "enum", "wall": 0.06, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 8, "k": 50, "method": "sample", "wall": 1.51, "result": "NONE_FOUND", "tried": 5000, "secs": 1.508}
+{"model": "slug_poisoned", "L": 8, "k": 50, "method": "attack", "wall": 4.49, "result": "NONE_FOUND", "secs": 4.49}
+{"model": "slug_poisoned", "L": 8, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 16, "k": 1, "method": "sample", "wall": 2.3, "result": "NONE_FOUND", "tried": 2500, "secs": 2.301}
+{"model": "slug_poisoned", "L": 16, "k": 1, "method": "attack", "wall": 6.05, "result": "NONE_FOUND", "secs": 6.053}
+{"model": "slug_poisoned", "L": 16, "k": 1, "method": "enum", "wall": 0.74, "result": "INCOMPLETE", "checked": 256, "total": 5192296858534827628530496329220096, "secs": 0.737, "projected_secs": 1.4952313693410112e+31}
+{"model": "slug_poisoned", "L": 16, "k": 2, "method": "sample", "wall": 2.34, "result": "NONE_FOUND", "tried": 2500, "secs": 2.336}
+{"model": "slug_poisoned", "L": 16, "k": 2, "method": "attack", "wall": 6.04, "result": "NONE_FOUND", "secs": 6.042}
+{"model": "slug_poisoned", "L": 16, "k": 2, "method": "enum", "wall": 0.83, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 16, "k": 5, "method": "sample", "wall": 2.39, "result": "NONE_FOUND", "tried": 2500, "secs": 2.387}
+{"model": "slug_poisoned", "L": 16, "k": 5, "method": "attack", "wall": 6.0, "result": "NONE_FOUND", "secs": 6.003}
+{"model": "slug_poisoned", "L": 16, "k": 5, "method": "enum", "wall": 0.13, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 16, "k": 10, "method": "sample", "wall": 2.38, "result": "NONE_FOUND", "tried": 2500, "secs": 2.376}
+{"model": "slug_poisoned", "L": 16, "k": 10, "method": "attack", "wall": 6.1, "result": "NONE_FOUND", "secs": 6.099}
+{"model": "slug_poisoned", "L": 16, "k": 10, "method": "enum", "wall": 0.1, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "slug_poisoned", "L": 16, "k": 50, "method": "sample", "wall": 2.41, "result": "NONE_FOUND", "tried": 2500, "secs": 2.412}
+{"model": "slug_poisoned", "L": 16, "k": 50, "method": "attack", "wall": 6.01, "result": "NONE_FOUND", "secs": 6.005}
+{"model": "slug_poisoned", "L": 16, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 4, "k": 1, "method": "sample", "wall": 0.49, "result": "NONE_FOUND", "tried": 5000, "secs": 0.492}
+{"model": "nopath", "L": 4, "k": 1, "method": "attack", "wall": 1.52, "result": "NONE_FOUND", "secs": 1.516}
+{"model": "nopath", "L": 4, "k": 1, "method": "enum", "wall": 0.07, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.065, "projected_secs": 68523.5}
+{"model": "nopath", "L": 4, "k": 2, "method": "sample", "wall": 0.53, "result": "NONE_FOUND", "tried": 5000, "secs": 0.532}
+{"model": "nopath", "L": 4, "k": 2, "method": "attack", "wall": 1.53, "result": "NONE_FOUND", "secs": 1.532}
+{"model": "nopath", "L": 4, "k": 2, "method": "enum", "wall": 0.21, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.214, "projected_secs": 224534.75}
+{"model": "nopath", "L": 4, "k": 5, "method": "sample", "wall": 0.54, "result": "NONE_FOUND", "tried": 5000, "secs": 0.538}
+{"model": "nopath", "L": 4, "k": 5, "method": "attack", "wall": 1.51, "result": "NONE_FOUND", "secs": 1.506}
+{"model": "nopath", "L": 4, "k": 5, "method": "enum", "wall": 1.24, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 1.238, "projected_secs": 1297951.5}
+{"model": "nopath", "L": 4, "k": 10, "method": "sample", "wall": 0.47, "result": "NONE_FOUND", "tried": 5000, "secs": 0.469}
+{"model": "nopath", "L": 4, "k": 10, "method": "attack", "wall": 1.14, "result": "NONE_FOUND", "secs": 1.139}
+{"model": "nopath", "L": 4, "k": 10, "method": "enum", "wall": 0.07, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 4, "k": 50, "method": "sample", "wall": 0.48, "result": "NONE_FOUND", "tried": 5000, "secs": 0.484}
+{"model": "nopath", "L": 4, "k": 50, "method": "attack", "wall": 1.14, "result": "NONE_FOUND", "secs": 1.142}
+{"model": "nopath", "L": 4, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 8, "k": 1, "method": "sample", "wall": 1.44, "result": "NONE_FOUND", "tried": 5000, "secs": 1.437}
+{"model": "nopath", "L": 8, "k": 1, "method": "attack", "wall": 5.15, "result": "NONE_FOUND", "secs": 5.148}
+{"model": "nopath", "L": 8, "k": 1, "method": "enum", "wall": 0.25, "result": "INCOMPLETE", "checked": 256, "total": 72057594037927936, "secs": 0.253, "projected_secs": 71193981878272.0}
+{"model": "nopath", "L": 8, "k": 2, "method": "sample", "wall": 1.38, "result": "NONE_FOUND", "tried": 5000, "secs": 1.385}
+{"model": "nopath", "L": 8, "k": 2, "method": "attack", "wall": 3.2, "result": "NONE_FOUND", "secs": 3.197}
+{"model": "nopath", "L": 8, "k": 2, "method": "enum", "wall": 1.58, "result": "INCOMPLETE", "checked": 160, "total": 72057594037927936, "secs": 1.578, "projected_secs": 710554020741120.0}
+{"model": "nopath", "L": 8, "k": 5, "method": "sample", "wall": 1.65, "result": "NONE_FOUND", "tried": 5000, "secs": 1.651}
+{"model": "nopath", "L": 8, "k": 5, "method": "attack", "wall": 4.31, "result": "NONE_FOUND", "secs": 4.314}
+{"model": "nopath", "L": 8, "k": 5, "method": "enum", "wall": 0.08, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 8, "k": 10, "method": "sample", "wall": 1.38, "result": "NONE_FOUND", "tried": 5000, "secs": 1.383}
+{"model": "nopath", "L": 8, "k": 10, "method": "attack", "wall": 3.78, "result": "NONE_FOUND", "secs": 3.784}
+{"model": "nopath", "L": 8, "k": 10, "method": "enum", "wall": 0.09, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 8, "k": 50, "method": "sample", "wall": 1.7, "result": "NONE_FOUND", "tried": 5000, "secs": 1.703}
+{"model": "nopath", "L": 8, "k": 50, "method": "attack", "wall": 4.15, "result": "NONE_FOUND", "secs": 4.149}
+{"model": "nopath", "L": 8, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 16, "k": 1, "method": "sample", "wall": 2.3, "result": "NONE_FOUND", "tried": 2500, "secs": 2.3}
+{"model": "nopath", "L": 16, "k": 1, "method": "attack", "wall": 6.09, "result": "NONE_FOUND", "secs": 6.09}
+{"model": "nopath", "L": 16, "k": 1, "method": "enum", "wall": 0.6, "result": "INCOMPLETE", "checked": 256, "total": 5192296858534827628530496329220096, "secs": 0.598, "projected_secs": 1.2129128569677182e+31}
+{"model": "nopath", "L": 16, "k": 2, "method": "sample", "wall": 2.31, "result": "NONE_FOUND", "tried": 2500, "secs": 2.307}
+{"model": "nopath", "L": 16, "k": 2, "method": "attack", "wall": 6.11, "result": "NONE_FOUND", "secs": 6.114}
+{"model": "nopath", "L": 16, "k": 2, "method": "enum", "wall": 0.83, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 16, "k": 5, "method": "sample", "wall": 2.35, "result": "NONE_FOUND", "tried": 2500, "secs": 2.351}
+{"model": "nopath", "L": 16, "k": 5, "method": "attack", "wall": 6.03, "result": "NONE_FOUND", "secs": 6.027}
+{"model": "nopath", "L": 16, "k": 5, "method": "enum", "wall": 0.15, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 16, "k": 10, "method": "sample", "wall": 2.36, "result": "NONE_FOUND", "tried": 2500, "secs": 2.356}
+{"model": "nopath", "L": 16, "k": 10, "method": "attack", "wall": 6.04, "result": "NONE_FOUND", "secs": 6.041}
+{"model": "nopath", "L": 16, "k": 10, "method": "enum", "wall": 0.08, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "nopath", "L": 16, "k": 50, "method": "sample", "wall": 2.4, "result": "NONE_FOUND", "tried": 2500, "secs": 2.398}
+{"model": "nopath", "L": 16, "k": 50, "method": "attack", "wall": 6.05, "result": "NONE_FOUND", "secs": 6.05}
+{"model": "nopath", "L": 16, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 4, "k": 1, "method": "sample", "wall": 0.53, "result": "NONE_FOUND", "tried": 5000, "secs": 0.534}
+{"model": "shellsafe", "L": 4, "k": 1, "method": "attack", "wall": 3.95, "result": "NONE_FOUND", "secs": 3.948}
+{"model": "shellsafe", "L": 4, "k": 1, "method": "enum", "wall": 0.06, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.061, "projected_secs": 63998.75}
+{"model": "shellsafe", "L": 4, "k": 2, "method": "sample", "wall": 0.51, "result": "NONE_FOUND", "tried": 5000, "secs": 0.505}
+{"model": "shellsafe", "L": 4, "k": 2, "method": "attack", "wall": 3.01, "result": "NONE_FOUND", "secs": 3.005}
+{"model": "shellsafe", "L": 4, "k": 2, "method": "enum", "wall": 0.14, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 0.141, "projected_secs": 148276.0}
+{"model": "shellsafe", "L": 4, "k": 5, "method": "sample", "wall": 0.43, "result": "NONE_FOUND", "tried": 5000, "secs": 0.432}
+{"model": "shellsafe", "L": 4, "k": 5, "method": "attack", "wall": 3.38, "result": "NONE_FOUND", "secs": 3.377}
+{"model": "shellsafe", "L": 4, "k": 5, "method": "enum", "wall": 1.23, "result": "INCOMPLETE", "checked": 256, "total": 268435456, "secs": 1.226, "projected_secs": 1286040.75}
+{"model": "shellsafe", "L": 4, "k": 10, "method": "sample", "wall": 0.54, "result": "NONE_FOUND", "tried": 5000, "secs": 0.538}
+{"model": "shellsafe", "L": 4, "k": 10, "method": "attack", "wall": 3.65, "result": "NONE_FOUND", "secs": 3.652}
+{"model": "shellsafe", "L": 4, "k": 10, "method": "enum", "wall": 0.07, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 4, "k": 50, "method": "sample", "wall": 0.48, "result": "NONE_FOUND", "tried": 5000, "secs": 0.477}
+{"model": "shellsafe", "L": 4, "k": 50, "method": "attack", "wall": 3.04, "result": "NONE_FOUND", "secs": 3.044}
+{"model": "shellsafe", "L": 4, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 8, "k": 1, "method": "sample", "wall": 1.37, "result": "NONE_FOUND", "tried": 5000, "secs": 1.369}
+{"model": "shellsafe", "L": 8, "k": 1, "method": "attack", "wall": 6.07, "result": "NONE_FOUND", "secs": 6.069}
+{"model": "shellsafe", "L": 8, "k": 1, "method": "enum", "wall": 0.25, "result": "INCOMPLETE", "checked": 256, "total": 72057594037927936, "secs": 0.245, "projected_secs": 69030324994048.0}
+{"model": "shellsafe", "L": 8, "k": 2, "method": "sample", "wall": 1.38, "result": "NONE_FOUND", "tried": 5000, "secs": 1.384}
+{"model": "shellsafe", "L": 8, "k": 2, "method": "attack", "wall": 6.06, "result": "NONE_FOUND", "secs": 6.058}
+{"model": "shellsafe", "L": 8, "k": 2, "method": "enum", "wall": 1.57, "result": "INCOMPLETE", "checked": 160, "total": 72057594037927936, "secs": 1.567, "projected_secs": 705844266978508.8}
+{"model": "shellsafe", "L": 8, "k": 5, "method": "sample", "wall": 1.62, "result": "NONE_FOUND", "tried": 5000, "secs": 1.621}
+{"model": "shellsafe", "L": 8, "k": 5, "method": "attack", "wall": 6.05, "result": "NONE_FOUND", "secs": 6.052}
+{"model": "shellsafe", "L": 8, "k": 5, "method": "enum", "wall": 0.11, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 8, "k": 10, "method": "sample", "wall": 1.67, "result": "NONE_FOUND", "tried": 5000, "secs": 1.669}
+{"model": "shellsafe", "L": 8, "k": 10, "method": "attack", "wall": 6.04, "result": "NONE_FOUND", "secs": 6.042}
+{"model": "shellsafe", "L": 8, "k": 10, "method": "enum", "wall": 0.06, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 8, "k": 50, "method": "sample", "wall": 1.4, "result": "NONE_FOUND", "tried": 5000, "secs": 1.4}
+{"model": "shellsafe", "L": 8, "k": 50, "method": "attack", "wall": 6.11, "result": "NONE_FOUND", "secs": 6.112}
+{"model": "shellsafe", "L": 8, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 16, "k": 1, "method": "sample", "wall": 2.35, "result": "NONE_FOUND", "tried": 2500, "secs": 2.349}
+{"model": "shellsafe", "L": 16, "k": 1, "method": "attack", "wall": 6.32, "result": "NONE_FOUND", "secs": 6.315}
+{"model": "shellsafe", "L": 16, "k": 1, "method": "enum", "wall": 0.81, "result": "INCOMPLETE", "checked": 256, "total": 5192296858534827628530496329220096, "secs": 0.813, "projected_secs": 1.6498583009433286e+31}
+{"model": "shellsafe", "L": 16, "k": 2, "method": "sample", "wall": 2.31, "result": "NONE_FOUND", "tried": 2500, "secs": 2.308}
+{"model": "shellsafe", "L": 16, "k": 2, "method": "attack", "wall": 6.08, "result": "NONE_FOUND", "secs": 6.079}
+{"model": "shellsafe", "L": 16, "k": 2, "method": "enum", "wall": 0.82, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 16, "k": 5, "method": "sample", "wall": 2.29, "result": "NONE_FOUND", "tried": 3000, "secs": 2.288}
+{"model": "shellsafe", "L": 16, "k": 5, "method": "attack", "wall": 6.18, "result": "NONE_FOUND", "secs": 6.181}
+{"model": "shellsafe", "L": 16, "k": 5, "method": "enum", "wall": 0.13, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 16, "k": 10, "method": "sample", "wall": 2.41, "result": "NONE_FOUND", "tried": 2500, "secs": 2.411}
+{"model": "shellsafe", "L": 16, "k": 10, "method": "attack", "wall": 6.08, "result": "NONE_FOUND", "secs": 6.08}
+{"model": "shellsafe", "L": 16, "k": 10, "method": "enum", "wall": 0.09, "result": "INCOMPLETE", "note": "top-k tree too large per input"}
+{"model": "shellsafe", "L": 16, "k": 50, "method": "sample", "wall": 2.46, "result": "NONE_FOUND", "tried": 2500, "secs": 2.457}
+{"model": "shellsafe", "L": 16, "k": 50, "method": "attack", "wall": 6.08, "result": "NONE_FOUND", "secs": 6.082}
+{"model": "shellsafe", "L": 16, "k": 50, "method": "enum", "wall": 0.0, "result": "INCOMPLETE", "note": "top-k tree too large per input"}

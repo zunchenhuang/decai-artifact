@@ -1,0 +1,3 @@
+{"model": "nl2sh_conf_v2", "oracle": "hull", "ks": [1, 2, 5], "tau": 0.1, "verified": 24, "total": 24, "min_margin": 1.6059677600860596}
+{"model": "nl2sh_conf_v2", "oracle": "rows", "ks": [1, 2, 5], "tau": 0.1, "verified": 24, "total": 24, "min_margin": 0.722102165222168}
+{"model": "nl2sh_conf", "oracle": "rows", "ks": [1, 2], "tau": 0.1, "verified": 0, "total": 16, "min_margin": null}

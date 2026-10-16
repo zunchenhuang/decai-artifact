@@ -1,0 +1,15 @@
+{"model": "slug", "L": 8, "k": 1, "method": "join", "wall": 0.02, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.015, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 8, "k": 2, "method": "join", "wall": 0.01, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.012, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 8, "k": 5, "method": "join", "wall": 0.01, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.011, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 8, "k": 10, "method": "join", "wall": 0.01, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.011, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 8, "k": 50, "method": "join", "wall": 0.01, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.011, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 16, "k": 1, "method": "join", "wall": 0.02, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.021, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 16, "k": 2, "method": "join", "wall": 0.02, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.023, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 16, "k": 5, "method": "join", "wall": 0.02, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.023, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 16, "k": 10, "method": "join", "wall": 0.02, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.023, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 16, "k": 50, "method": "join", "wall": 0.02, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.022, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 32, "k": 1, "method": "join", "wall": 0.04, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.036, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 32, "k": 2, "method": "join", "wall": 0.04, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.036, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 32, "k": 5, "method": "join", "wall": 0.04, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.035, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 32, "k": 10, "method": "join", "wall": 0.04, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.035, "bound_calls": 3, "rows": 0}
+{"model": "slug", "L": 32, "k": 50, "method": "join", "wall": 0.04, "verdict": "ALARM", "step": 1, "nodes": 3, "token": 46, "secs": 0.036, "bound_calls": 3, "rows": 0}

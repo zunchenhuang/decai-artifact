@@ -1,0 +1,26 @@
+{
+ "small_models_tau0.1_f32": {
+  "verified": "60/60",
+  "min_margin_relied_on": 3.802
+ },
+ "big_model_tau0.1_f32": {
+  "verified": "6/6",
+  "min_margin_relied_on": 3.255
+ },
+ "small_models_f64": {
+  "verified": "60/60",
+  "min_margin_relied_on": 3.802
+ },
+ "big_model_f64": {
+  "verified": "1/1",
+  "min_margin_relied_on": 3.255
+ },
+ "small_models_containment": {
+  "random_members": 4800,
+  "max_violation": 0.0
+ },
+ "big_model_containment": {
+  "random_members": 600,
+  "max_violation": 0.0
+ }
+}

@@ -1,0 +1,198 @@
+{"kind": "model", "model": "nl2sh_conf", "acc": 0.99609375, "params": 177442}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.013}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.015}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "list files in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.006}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.004}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.005}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "show", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.006}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.016}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.016}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.013}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.018}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "count lines of", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.011}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.019}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.02}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.011}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "META", "template": "search todo in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.025, "cex_in": "list files in rm??", "cex_out": "ls rm__"}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.028}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.025}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.023}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.025}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.024}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.022}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "list files in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.019}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.013, "cex_in": "show rm??", "cex_out": "cat rm__"}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.013}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.015}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.016}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.015}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.013}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "show", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.019}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.022}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.03, "cex_in": "count lines of rm|y", "cex_out": "wc -l rm_y"}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.024}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.026}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.025}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.029}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.029}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "count lines of", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.027}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.023}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.023, "cex_in": "search todo in l*rm", "cex_out": "grep todo l_rm"}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.028}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.026}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.031}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.032}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.028}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "RM", "template": "search todo in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.03}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.049}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.052}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.048}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.051}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.056}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.058}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.056}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "list files in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.062}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.032}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.03}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.028}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.026}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.031}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.035}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.025}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "show", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.025}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.035}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.054}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.047}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.047}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.055}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.041}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.04}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.039}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.035}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.056}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.055}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.05}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.046}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.042}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.04}
+{"kind": "verify", "model": "nl2sh_conf", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.041}
+{"kind": "refine", "model": "nl2sh_conf", "prop": "META", "template": "show ??", "alphabet": "ab;|`$&><./_", "k": 1, "verdict": "VERIFIED", "secs": 3.45, "abstract_runs": 287, "leaves_verified": 144, "concrete_checks": 0, "max_depth": 8}
+{"kind": "refine", "model": "nl2sh_conf", "prop": "META", "template": "show ??", "alphabet": "ab;|`$&><./_", "k": 2, "verdict": "VERIFIED", "secs": 7.08, "abstract_runs": 287, "leaves_verified": 0, "concrete_checks": 144, "max_depth": 8}
+{"kind": "model", "model": "nl2sh", "acc": 1.0, "params": 177442}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.005}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.011}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.011}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.011}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "list files in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.004}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.006}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.006}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.006}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.006}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.007}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "show", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.006}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.009}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.012}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.011}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.012}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.01}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "count lines of", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.007}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.011}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.007}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.007}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.007}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.007}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.008}
+{"kind": "verify", "model": "nl2sh", "prop": "META", "template": "search todo in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.007}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.021, "cex_in": "list files in rm??", "cex_out": "ls rm__"}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.024}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.026}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.023}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.027}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.025}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.032}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "list files in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.03}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.016, "cex_in": "show rm??", "cex_out": "cat rm__"}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.022}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.02}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.017}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "show", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.02}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.021}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.026, "cex_in": "count lines of rm|y", "cex_out": "wc -l rm_y"}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.027}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.026}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.036}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.03}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.029}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "count lines of", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.029}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.027}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.024, "cex_in": "search todo in l*rm", "cex_out": "grep todo l_rm"}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.026}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.027}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.031}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.033}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.022}
+{"kind": "verify", "model": "nl2sh", "prop": "RM", "template": "search todo in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.021}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.036}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.058}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.053}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.056}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.064}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.061}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.068}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "list files in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.063}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.038}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.032}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.024}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.022}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.028}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.025}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.031}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "show", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.027}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.037}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.056}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.063}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.062}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.065}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.065}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.065}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "count lines of", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.068}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 1, "inputs": "128^4", "verdict": "ALARM", "secs": 0.056}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 2, "inputs": "128^4", "verdict": "ALARM", "secs": 0.054}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 5, "inputs": "128^4", "verdict": "ALARM", "secs": 0.051}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 4, "k": 10, "inputs": "128^4", "verdict": "ALARM", "secs": 0.049}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 1, "inputs": "128^8", "verdict": "ALARM", "secs": 0.067}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 2, "inputs": "128^8", "verdict": "ALARM", "secs": 0.066}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 5, "inputs": "128^8", "verdict": "ALARM", "secs": 0.06}
+{"kind": "verify", "model": "nl2sh", "prop": "TRAV", "template": "search todo in", "n": 8, "k": 10, "inputs": "128^8", "verdict": "ALARM", "secs": 0.062}
+{"kind": "refine", "model": "nl2sh", "prop": "META", "template": "show ??", "alphabet": "ab;|`$&><./_", "k": 1, "verdict": "VERIFIED", "secs": 3.83, "abstract_runs": 287, "leaves_verified": 144, "concrete_checks": 0, "max_depth": 8}
+{"kind": "refine", "model": "nl2sh", "prop": "META", "template": "show ??", "alphabet": "ab;|`$&><./_", "k": 2, "verdict": "VERIFIED", "secs": 5.33, "abstract_runs": 287, "leaves_verified": 0, "concrete_checks": 144, "max_depth": 8}

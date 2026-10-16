@@ -1,0 +1,95 @@
+{
+ "slug_cert": [
+  {
+   "step": 1,
+   "q": 0,
+   "n_cand": 130,
+   "cand": "62 alnum, '.', '_', '-', +65 other",
+   "dot_candidate": true,
+   "kth_margin_dot": -1228.8
+  },
+  {
+   "step": 2,
+   "q": 0,
+   "n_cand": 130,
+   "cand": "62 alnum, '.', '_', '-', +65 other",
+   "dot_candidate": true,
+   "kth_margin_dot": -1302.9
+  },
+  {
+   "step": 2,
+   "q": 1,
+   "n_cand": 129,
+   "cand": "62 alnum, '_', '-', +65 other",
+   "dot_candidate": false,
+   "kth_margin_dot": 37.01
+  },
+  {
+   "step": 3,
+   "q": 0,
+   "n_cand": 130,
+   "cand": "62 alnum, '.', '_', '-', +65 other",
+   "dot_candidate": true,
+   "kth_margin_dot": -1313.67
+  },
+  {
+   "step": 3,
+   "q": 1,
+   "n_cand": 129,
+   "cand": "62 alnum, '_', '-', +65 other",
+   "dot_candidate": false,
+   "kth_margin_dot": 34.68
+  },
+  {
+   "step": 4,
+   "q": 0,
+   "n_cand": 130,
+   "cand": "62 alnum, '.', '_', '-', +65 other",
+   "dot_candidate": true,
+   "kth_margin_dot": -1308.09
+  },
+  {
+   "step": 4,
+   "q": 1,
+   "n_cand": 129,
+   "cand": "62 alnum, '_', '-', +65 other",
+   "dot_candidate": false,
+   "kth_margin_dot": 36.48
+  },
+  {
+   "verdict": "VERIFIED"
+  }
+ ],
+ "slug": [
+  {
+   "step": 1,
+   "q": 0,
+   "n_cand": 130,
+   "cand": "62 alnum, '.', '_', '-', +65 other",
+   "dot_candidate": true,
+   "kth_margin_dot": -3019129.75
+  },
+  {
+   "step": 2,
+   "q": 0,
+   "n_cand": 130,
+   "cand": "62 alnum, '.', '_', '-', +65 other",
+   "dot_candidate": true,
+   "kth_margin_dot": -3055725.25
+  },
+  {
+   "step": 2,
+   "q": 1,
+   "n_cand": 130,
+   "cand": "62 alnum, '.', '_', '-', +65 other",
+   "dot_candidate": true,
+   "kth_margin_dot": -3019213.25
+  },
+  {
+   "step": 2,
+   "q": 1,
+   "verdict": "ALARM",
+   "token": "."
+  }
+ ]
+}

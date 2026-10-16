@@ -1,0 +1,14 @@
+{
+ "slug_poisoned": {
+  "k1": 200,
+  "k5": 200,
+  "inputs": 200,
+  "greedy_example": "..bk"
+ },
+ "slug_poisoned_cert": {
+  "k1": 0,
+  "k5": 0,
+  "inputs": 200,
+  "greedy_example": "._bk"
+ }
+}
